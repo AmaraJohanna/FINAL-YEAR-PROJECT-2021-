@@ -7,7 +7,6 @@ AIM AND OBJECTIVES OF THE STUDY
 
 This research project aims to estimate the solution gas-oil ratio of Nigerian crude oil via a machine
 learning approach.
-
 2. OBJECTIVES
 
 The objectives of this research work include:
@@ -24,6 +23,7 @@ The world is becoming more technology inclined, and any individual, company or o
 Estimating solution gas-oil ratio via PVT analysis is costly, timeconsuming, and the analysis is prone to human error. Although correlations were developed to
 combat this challenge, some were usually developed for specific regions hence the inability to apply these correlations in other regions.
 The significance of this research project is to proffer an alternative approach that is less costly, less tedious and not time consuming to predict solution gas-oil ratio by using several machine learning algorithms. 
+
 More specifically, this research will be answering the following questions:
 1. Can the machine learning approach designed in this research help estimate the solution
 gas-oil ratio?
